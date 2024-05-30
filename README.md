@@ -79,7 +79,7 @@ These metrics demonstrate the effectiveness of our preprocessing enhancements, w
 
 ## Results and Discussion
 Initial cross-validation yielded an accuracy of 83.04%, with subsequent optimizations improving this to 86.67%. These enhancements were primarily due to more sophisticated feature extraction and data preprocessing techniques. The confusion matrix below illustrates the classifier's performance after optimizations:
-![Confusion Matrix]([path_to_confusion_matrix_image.png](https://drive.google.com/file/d/1GJlzwBHjyYv5EDqJAPcefS4wYmZeIl9b/view?usp=sharing))
+![Confusion Matrix]([(https://drive.google.com/file/d/1GJlzwBHjyYv5EDqJAPcefS4wYmZeIl9b/view?usp=sharing])
 
 ## Future Improvements
 Future work may explore:
