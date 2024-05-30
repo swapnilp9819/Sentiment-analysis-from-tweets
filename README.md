@@ -78,8 +78,7 @@ These preprocessing steps led to more nuanced feature sets that better represent
 These metrics demonstrate the effectiveness of our preprocessing enhancements, with particular improvements in precision and recall, crucial for a balanced sentiment analysis model.
 
 ## Results and Discussion
-Initial cross-validation yielded an accuracy of 83.04%, with subsequent optimizations improving this to 86.67%. These enhancements were primarily due to more sophisticated feature extraction and data preprocessing techniques. The confusion matrix below illustrates the classifier's performance after optimizations:
-![Confusion Matrix]([(https://drive.google.com/file/d/1GJlzwBHjyYv5EDqJAPcefS4wYmZeIl9b/view?usp=sharing])
+Initial cross-validation yielded an accuracy of 83.04%, with subsequent optimizations improving this to 86.67%. These enhancements were primarily due to more sophisticated feature extraction and data preprocessing techniques.
 
 ## Future Improvements
 Future work may explore:
